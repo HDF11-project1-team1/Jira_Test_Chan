@@ -7,5 +7,6 @@ public class Main {
         System.out.println("안의찬 지라 테스트4 - Branch name: HAN-5-안의찬-지라테스트4");
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky");
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky");
+        System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky3");
     }
 }
