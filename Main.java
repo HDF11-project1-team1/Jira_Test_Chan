@@ -8,5 +8,6 @@ public class Main {
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky");
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky");
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky3");
+        System.out.println("git flow test1 ");
     }
 }
