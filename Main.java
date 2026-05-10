@@ -10,7 +10,7 @@ public class Main {
         System.out.println("안의찬 husky 테스트 - Branch name: HAN-11-안의찬-husky3");
         System.out.println("준하 지라 테스트5 - Branch name: HAN-11-준하-지라테스트5");
         System.out.println("준하 지라 테스트6 - Branch name: HAN-11-준하-지라테스트5");
-        System.out.println("준하 husky 테스트");
+        System.out.println("준하 husky 테스트ㄴ213");
         System.out.println("git flow test2");
         System.out.println("git flow test1 ");
         System.out.println("git flow test-2");
