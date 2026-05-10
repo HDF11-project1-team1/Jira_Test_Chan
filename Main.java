@@ -15,5 +15,6 @@ public class Main {
         System.out.println("git flow test1 ");
         System.out.println("git flow test-2");
         System.out.println("전형준 husky 테스트");
+        System.out.println("전형준 husky 테스트2");
     }
 }
